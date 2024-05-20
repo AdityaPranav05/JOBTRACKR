@@ -1,0 +1,39 @@
+/* Home.css */
+
+.home-container1234 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    background-color: black;
+}
+
+.contentxyz {
+    text-align: center;
+    height: 100vh;
+}
+
+.xyzz {
+    color: white;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.abcdd {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.get-started {
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 10px 20px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.get-started:hover {
+    background-color: white;
+    color: black;
+}
